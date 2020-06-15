@@ -2,17 +2,18 @@
 layout: post
 title:  "The Complete Works of John Wostenberg (Abridged)"
 date:   2020-06-14 13:30:00 -0600
+edited: 2020-06-15 01:00:00 -0600
 categories: introduction
 ---
+
+### Welcome to the show!
+
+My name is John Wostenberg and I live in Boulder, Colorado, US. I will be using this blog primarily for my F# and .NET endeavors. Though I may be a college student, I hope someone finds this blog useful. You can find more autobiographical tidbits if that's your thing at [my about page](/about).
 
 {% highlight ruby %}
 printfn "Obligatory Hello, World!"
 // This is mostly so I don't forget how to highlight code :) which I will be doing quite frequently on this blog
 {% endhighlight %}
-
-### Welcome to the show!
-
-My name is John Wostenberg and I live in Boulder, Colorado, US. I will be using this blog primarily for my F# and .NET endeavors. Though I may be a college student, I hope someone finds this blog useful. You can find more autobiographical tidbits if that's your thing at [my about page](/about).
 
 The purpose of this introductory post is mostly to give myself something tangeable to hold myself accountable to.
 
