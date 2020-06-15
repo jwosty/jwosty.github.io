@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the author
+title: About the Author
 tagline: John Wostenberg
 permalink: /about
 ref: about
@@ -20,5 +20,3 @@ I am all for civilized and intelligent discussion. If you ever have any thoughts
 [my-prs]:           https://github.com/dotnet/fsharp/pulls?utf8=.&q=is:pr+author:jwosty
 [match-bang-pr]:    https://github.com/dotnet/fsharp/pulls?q=is%3Apr+author%3Ajwosty
 [fssf]:             https://fsharp.org/
-
-[Go to the Home Page]({{ '/' | absolute_url }})

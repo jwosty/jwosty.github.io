@@ -66,8 +66,11 @@
         
         <section class="page-header">
             <h1 class="project-name">{{ page-title }}</h1>
+            {% if page.layout == 'home' %}
+            <img src="{{site.banner_icon}}" width="200px" height="200px">
+            {% endif %}
             <h2 class="project-tagline">{{ page-tagline }}</h2>
-            {% if page.layout == 'home' and site.github.is_project_page %}
+            {% if page.layout == 'home' and site.github.is_project_page and site.show_github_repo %}
             <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
             {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
