@@ -3,7 +3,7 @@ layout: post
 title:  "The Complete Works of John Wostenberg (Abridged)"
 date:   2020-06-14 13:30:00 -0600
 edited: 2020-06-15 01:00:00 -0600
-categories: introduction
+tags: introduction
 ---
 
 ### Welcome to the show!
